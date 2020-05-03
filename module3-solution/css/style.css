@@ -1,8 +1,12 @@
+*{
+    box-sizing: border-box;
+}
 body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
     background-color: #599e4b;
+
 }
 
 
@@ -69,24 +73,33 @@ body {
 /** HOME PAGE **/
 
 #main-content {
-    width: 92%;
+    width: 100%;
     margin-bottom: 40px;
+    margin:5px;
+margin-bottom: 50px;    
+width: 96%;
 }
 #main-content h2 {
     font-size: 2.9em;
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 50px;
+   
 }
 #main-content h3 {
     font-size: 1.6em;
     font-weight: bold;
     margin-bottom: 1em;
 }
-#main-section {
+#chicken,#beef,#sushi {
+    margin-right: 2px;
     background-color: #82d06b;
-    box-shadow: 0 0 50px #0f5900;
-    padding: 30px;
+    box-shadow: 0 0 40px #0f5900;
+    padding: 10px;
+    text-align: justify;
+   
+    
 }
+
 
 /** END HOME PAGE **/
