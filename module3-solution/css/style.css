@@ -73,11 +73,11 @@ body {
 /** HOME PAGE **/
 
 #main-content {
-    width: 100%;
+    width: 96%;
     margin-bottom: 40px;
-    margin:5px;
-margin-bottom: 50px;    
-width: 96%;
+    margin:25px 25px 25px 25px;
+
+  
 }
 #main-content h2 {
     font-size: 2.9em;
